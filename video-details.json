@@ -1,0 +1,29 @@
+    [
+        {
+        "id": 1,
+        "Day" : 1,
+        "sessions": {
+            "session1": {
+                "title" : "Session 1: Vinay's Session",
+                "fileName" : "Day1/SageMath Day 2 - Session 2"
+
+            }
+        }
+        },
+        {
+            "id": 2,
+            "Day" : 2,
+            "sessions": {
+            "session1": {
+                "title" : "something",
+                "fileName" : "Day2/SageMath Session 2 (Second)"
+    
+            },
+            "session2": {
+                "title" : "Something Else",
+                "fileName" : "Day2/SageMath Session 4 (Second)"
+    
+            }
+            }
+        }
+    ]
