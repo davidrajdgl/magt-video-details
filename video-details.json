@@ -14,12 +14,12 @@
             "Day" : 2,
             "sessions": [ {
                 "title" : "something",
-                "fileName" : "Day2/SageMath Session 2 (Second).mp4"
+                "fileName" : "Day2/SageMathSession_4.mp4"
     
             }, 
             {
                 "title" : "Something Else",
-                "fileName" : "Day2/SageMath Session 4 (Second).mp4"
+                "fileName" : "Day2/SageMath_Session_2.mp4"
     
             }
             ]
