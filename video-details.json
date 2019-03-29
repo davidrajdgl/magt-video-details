@@ -4,6 +4,7 @@
         "Day" : 1,
         "sessions": [ {
                 "title" : "Session 1: Vinay's Session",
+            "videoId" : "Day1Session1",
                 "fileName" : "Day1/Day2_Session_2.mp4"
 
             }
@@ -14,11 +15,13 @@
             "Day" : 2,
             "sessions": [ {
                 "title" : "something",
+                "videoId" : "Day2Session1",
                 "fileName" : "Day2/SageMathSession_4.mp4"
     
             }, 
             {
                 "title" : "Something Else",
+                "videoId" : "Day2Session2",
                 "fileName" : "Day2/SageMath_Session_2.mp4"
     
             }
